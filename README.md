@@ -58,6 +58,7 @@ Open index.html directly in the browser
 
 # 4) Configure target date
 Edit: /js/main.js → set target event date/time
+```
 
 ---
 
