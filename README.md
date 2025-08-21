@@ -41,7 +41,7 @@ DEPI Countdown is a modern web app that displays real‑time countdowns to targe
 
 ## 👀 Website Preview
 <a href="https://ahmed-maher77.github.io/Depi-Countdown-Timer/" title="demo">
-  <img src="uploaded-img-on-github-readme" alt="website preview" width="400">
+  <img src="https://github.com/user-attachments/assets/9e578d48-bfac-4291-8940-a944b3e2bfd4" alt="website preview - UI Mockup" width="400">
 </a>
 
 ---
